@@ -1,0 +1,12 @@
+name	nifH_tiered
+citation	
+qiita-id	NA
+raw-data-url-forward-read	
+raw-data-url-reverse-read	
+raw-data-url-index-read	NA
+target-gene	nifH
+target-subfragment	19-473 relative to A. vinelandii nifH (Genbank ACCN# M20568)
+study-type	marker-gene
+sequencing-instrument	Sanger
+physical-specimen-available	Yes
+contact-email	woebken@microbial-ecology.net
