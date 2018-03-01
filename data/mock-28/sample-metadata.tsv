@@ -1,3 +1,2 @@
-SampleID	BarcodeSequence	LinkerPrimerSequence	ReversePrimer	PrimerName	Description
-Mock.nifH.even	NA			Ueda19F-R6	Mock.nifH.even
-Mock.nifH.tiered	NA			Ueda19F-R6	Mock.nifH.tiered
+SampleID	BarcodeSequence	LinkerPrimerSequence	ForwardPrimer	ReversePrimer	PrimerName	Description
+Mock.nifH.tiered	TGGTGTTG	NA	GCIWTYTAYGGIAARGGIGG	GCCATCATYTCICCIGA	Ueda19F-R6	Mock.nifH.tiered

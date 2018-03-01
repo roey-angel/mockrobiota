@@ -1,12 +1,12 @@
-name	nifH_even
-citation	
+name	value
+citation	NA
 qiita-id	NA
-raw-data-url-forward-read	
-raw-data-url-reverse-read	
+raw-data-url-forward-read	https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR6666663
+raw-data-url-reverse-read	https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR6666663
 raw-data-url-index-read	NA
 target-gene	nifH
 target-subfragment	19-473 relative to A. vinelandii nifH (Genbank ACCN# M20568)
 study-type	marker-gene
-sequencing-instrument	Sanger
+sequencing-instrument	MiSeq
 physical-specimen-available	Yes
 contact-email	woebken@microbial-ecology.net
